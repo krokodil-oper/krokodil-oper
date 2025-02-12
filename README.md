@@ -23,4 +23,4 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?userkrokodile-oper&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://krokodil-oper.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
