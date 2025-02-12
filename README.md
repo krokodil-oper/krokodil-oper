@@ -19,3 +19,8 @@
 </div>
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?userkrokodile-oper&theme=dark&background=000000)](https://git.io/streak-stats)
